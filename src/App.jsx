@@ -14,7 +14,7 @@ const App = () => {
       </div>
       <Home />
       <div className='text-sm sm:text-base text-gray-500 mt-6 text-center'>
-        powered by <span className="font-medium text-gray-700">@deltron</span>
+        powered by <span className="font-medium text-gray-700">@deltron.</span>
       </div>
     </div>
   );
